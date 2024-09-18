@@ -1,6 +1,5 @@
-#pandas==1.3.1
-#scipy==1.6.2
-streamlit==1.22.0  # Replace with the version you're using
-altair==4.2.0      # Version required for compatibility with Streamlit
-pandas==2.0.3      # Example, include only if your app uses pandas
-plotly==5.15.0     # If you're using Plotly for visualizations
+pandas==2.0.3
+scipy==1.11.1
+streamlit==1.25.0
+altair==5.0.1
+plotly==5.15.0
